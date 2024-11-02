@@ -15,6 +15,7 @@ public class Customer {
 	private int carId;
 	private String model;
 	private boolean isAvailable;
+	private String address;
 	
 	public Customer() {
 		// TODO Auto-generated constructor stub
